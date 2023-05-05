@@ -1,10 +1,10 @@
 $(document).ready(
     $("#mailTo").click(function () {
-        const part2 = "kar";
-        const part1 = "aupendu";
+        const part2 = "Rahman";
+        const part1 = "Ziaur";
         const part3 = Math.pow(2, 6);
         const part6 = ".ac.in";
-        const part5 = "iitkgp";
+        const part5 = "HGNU";
 
         const x = confirm(
             "Click \"OK\" to open your default email app."
